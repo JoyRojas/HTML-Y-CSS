@@ -1,0 +1,21 @@
+p {
+    background-color: rgba(185, 185, 185, 0.822);
+    border: 1px solid black;
+    padding: 12xp;
+    width: 60%;
+    margin: 0 auto;
+}
+h1 {
+    background-color: rgb(255, 249, 249);
+    border: 1px solid black;
+    padding: 12xp;
+    width: 60%;
+    margin: 0 auto;
+}
+address {
+    background-color: rgb(134, 108, 108);
+    border: 1px solid rgb(255, 255, 255);
+    padding: 12xp;
+    width: 60%;
+    margin: 0 auto;
+}
